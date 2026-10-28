@@ -231,7 +231,8 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
-Nerea Puertas - nereaPP23
+
+Nerea Puertas - nereaPP23(https://github.com/nereaPP23)
 
 ## Licencia y uso
 
